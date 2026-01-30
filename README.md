@@ -93,6 +93,4 @@ Copy code
 
 ---
 
-If you want, I can also **add a `.gitignore`** specifically for Terraform so you never push `.terraform` or `.tfstate` files again. This is important to keep your GitHub repo clean.  
 
-Do you want me to do that next?
