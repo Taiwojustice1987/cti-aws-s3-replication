@@ -33,7 +33,7 @@ Copy code
 ## Prerequisites
 
 - Terraform >= 1.5.0
-- AWS CLI configured with access to your AWS account
+- AWS CLI configured with access to client AWS account
 - Git
 
 ---
